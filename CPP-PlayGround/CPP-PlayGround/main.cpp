@@ -9,7 +9,7 @@ int __MATH__INT = X + Y; // 23
 
 int title()
 {
-	SetConsoleTitleA("CPP Playground");
+	SetConsoleTitleA("");
 	return 1;
 }
 
