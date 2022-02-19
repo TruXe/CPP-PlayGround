@@ -1,7 +1,4 @@
-﻿#include <iostream>
-#include "windows.h"
-#include <vector>
-#include <sstream>
+﻿#include "hooks.h"
 
 int X = 11;
 int Y = 12;
@@ -18,7 +15,14 @@ int title()
 
 int captcha__ = { 0 };
 
-//MATHS
+
+
+//				SIMPLE MATH				\\
+//				SIMPLE MATH				\\
+//				SIMPLE MATH				\\
+
+
+
 int main()
 {
 	title();
