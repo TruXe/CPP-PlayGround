@@ -4,6 +4,13 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="hooks.h" />
+    <Filter Include="utils">
+      <UniqueIdentifier>{3073dab2-4adf-45ca-93df-c0c678d872b7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="hooks.h">
+      <Filter>utils</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
